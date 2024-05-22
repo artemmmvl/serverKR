@@ -1,0 +1,19 @@
+
+{	java:S135×"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8”Å®ú1
+M
+java:S1066 "/Merge this if statement with the enclosing one.(²ô¯8–Å®ú1
+X
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—Å®ú1
+X
+java:S1141µ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—Å®ú1
+v	java:S116"[Rename this field "UPLOAD_DIRECTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ì•8¦Ç®ú1
+;
+java:S2119Ì"Save and re-use this "Random".(¼İÅf8¼Ç®ú1
+I
+java:S1168Ç"+Return an empty collection instead of null.(¥¹ï8ÉÇ®ú1
+I
+java:S1168İ"+Return an empty collection instead of null.(¥¹ï8ÏÇ®ú1
+I
+java:S1168â"+Return an empty collection instead of null.(¥¹ï8ÏÇ®ú1
+[
+java:S1128">Remove this unused import 'jakarta.transaction.Transactional'.(ß–Ê³8ÓÇ®ú1

@@ -1,0 +1,10 @@
+
+q	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ÷õ»8 ïÅÜù1
+P
+java:S1874".Remove this use of "parser"; it is deprecated.(ÚÜŠÿşÿÿÿÿ8ªïÅÜù1
+R
+java:S1874"5Remove this use of "setSigningKey"; it is deprecated.(½ĞÍ¸8«ïÅÜù1
+M
+java:S1874D"0Remove this use of "signWith"; it is deprecated.(ä×Í½8»ïÅÜù1
+X
+java:S1128	"<Remove this unused import 'org.example.service.UserService'.(’í¡G8¼ïÅÜù1
